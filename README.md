@@ -1,2 +1,2 @@
-# HybridSN-replace-v1
-HybridSN-replace-3rdcov-to-SP3D
+# HybridSN-v1
+HybridSN-SP3D
